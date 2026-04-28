@@ -33,7 +33,7 @@ How/what the Test Case is testing and what should be completed by doing the Test
 | **Run Date**: | Date test was run |
 | **Assignee**: | QA Name |
 | **Category**: | Functional, Security, Performance, Compatability, etc. |
-| **Pass/Faile**: | P/F |
+| **Pass/Fail**: | P/F |
 | | |
 
 ---
