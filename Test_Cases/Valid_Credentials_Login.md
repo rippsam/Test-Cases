@@ -35,7 +35,7 @@ Test the login page using a valid existing username and password. (This test cas
 | **Run Date**: | 10/10/2023 |
 | **Assignee**: | Sam R |
 | **Category**: | Functional, Security |
-| **Pass/Faile**: | P |
+| **Pass/Fail**: | P |
 | | |
 
 ---
