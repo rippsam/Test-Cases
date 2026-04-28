@@ -1,4 +1,4 @@
-# Login with valid credentials
+# [Student Example] Login with valid credentials
 
 ---
 
